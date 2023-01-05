@@ -1,6 +1,6 @@
 # Python-Xml-To-Sqlite
 
-This Python script extracts data from an XML file and stores the data in a SQLite database. The XML file contains information about music tracks, and the database stores the data in three tables: "Artist", "Album", and "Track".
+This Python script extracts data from an XML file and stores the data in a SQLite database. The XML file was obtained from a python course online and it contains information about music tracks, and the database stores the data in three tables: "Artist", "Album", and "Track".
 
 ## Requirements
 
